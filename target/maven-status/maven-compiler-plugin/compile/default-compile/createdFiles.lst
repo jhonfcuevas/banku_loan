@@ -1,0 +1,9 @@
+com/banku/loan/ServletInitializer.class
+com/banku/loan/configuration/SimpleCORSFilter.class
+com/banku/loan/integration/RestProxy.class
+com/banku/loan/controllers/LoanController.class
+com/banku/loan/repository/LoanRepository.class
+com/banku/loan/configuration/SwaggerConfig.class
+com/banku/loan/entities/LoanEntity.class
+com/banku/loan/BankuLoanApplication.class
+com/banku/loan/services/LoanService.class

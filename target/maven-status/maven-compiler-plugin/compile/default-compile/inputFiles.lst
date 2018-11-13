@@ -1,0 +1,9 @@
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/entities/LoanEntity.java
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/repository/LoanRepository.java
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/configuration/SwaggerConfig.java
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/ServletInitializer.java
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/configuration/SimpleCORSFilter.java
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/integration/RestProxy.java
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/services/LoanService.java
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/BankuLoanApplication.java
+/home/jhon/Documentos/Universidad/patrones/trabajo_final/Desarrollo/banku_loan/src/main/java/com/banku/loan/controllers/LoanController.java
